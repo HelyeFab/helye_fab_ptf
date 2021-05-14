@@ -802,6 +802,11 @@ textarea {
   text-align: center;
   align-self: center;
 }
+@media screen and (max-width: 56.25em) {
+  .content__text-subtitle {
+    text-align: center;
+  }
+}
 
 .hero-btn.btn a {
   font-size: 2rem;
