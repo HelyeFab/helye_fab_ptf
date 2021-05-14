@@ -15,12 +15,12 @@ html {
 }
 @media (max-width: 56.25em) {
   html {
-    font-size: 50%;
+    font-size: 53%;
   }
 }
 @media (max-width: 25em) {
   html {
-    font-size: 37.5%;
+    font-size: 47.5%;
   }
 }
 @media (min-width: 112.5em) {
