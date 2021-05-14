@@ -803,7 +803,7 @@ textarea {
   align-self: center;
 }
 @media screen and (max-width: 56.25em) {
-  .content__text-subtitle {
+  .content__text-subtitle p {
     text-align: center;
   }
 }
