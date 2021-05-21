@@ -154,6 +154,12 @@ a {
   align-items: center;
 }
 
+.sendMailBtn { 
+  color: #00BFA6;
+  font-weight: bold;
+
+}
+
 .switch__container {
   display: flex;
   flex-direction: column;
@@ -808,9 +814,12 @@ textarea {
   }
 }
 
+
 .hero-btn.btn a {
   font-size: 2rem;
   color: white;
+  
+
 }
 
 @media screen and (max-width: 400px) {
@@ -825,6 +834,7 @@ textarea {
   justify-content: center;
   align-items: center;
 }
+
 
 .content__text-title h3 {
   font-size: 3.6rem;
